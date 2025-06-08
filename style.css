@@ -1,0 +1,63 @@
+/* Style cho body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* nền trắng dễ nhìn */
+}
+
+/* Style cho header */
+header {
+    background-color: #4CAF50; /* xanh lá dễ đọc */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style cho nav */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+/* Style cho main */
+main {
+    background-color: #f9f9f9;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Style cho footer */
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Style cho li */
+li {
+    display: inline-block;
+    width: auto; /* có thể đổi thành 100px nếu muốn */
+    margin-right: 10px;
+}
+
+/* Style cho h1 */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+}
+
+/* Style cho p */
+p {
+    line-height: 1.8;
+}
